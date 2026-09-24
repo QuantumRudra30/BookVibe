@@ -3,7 +3,7 @@ import React from 'react';
 const page = () => {
     return (
         <div>
-            Book page is render
+            {/* Book page is render */}
         </div>
     );
 };
